@@ -16,3 +16,13 @@ The Auto Proctoring System is a project developed in Visual Studio Code that uti
 + Monitor the output and warnings in the console or user interface.
 + Analyze the behavior graph and cheat percentile to identify suspicious activities.
 + Customize or extend the system according to your needs.
+
+##Modules to Be Installed
++ pip install numpy
++ pip install matplotlib
++ pip install SpeechRecognition
++ pip install mediapipe
++ pip install pyttsx3
++ pip install opencv-python
++ pip install pyaudio
++ pip install colored
